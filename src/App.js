@@ -1,6 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
     <div class="container px-5 py-24 mx-auto flex flex-wrap">
